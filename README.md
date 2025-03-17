@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ellielok.vercel.app/api?username=ellielok&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ellielok.vercel.app/api?username=ellielok&show_icons=true">
 </picture>
