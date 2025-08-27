@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ### 🖥 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
 
 ### 🗄 Databases
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
@@ -37,9 +40,10 @@ Here are some ideas to get you started:
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
-
+/*
 ## GitHub Stats
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ellielok&theme=dark&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=ellielok&show_icons=true">
 </picture>
+*/
